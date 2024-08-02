@@ -1,5 +1,7 @@
 # Password Generator
 
+This is a fork from the original creator: https://github.com/ramazancetinkaya/password-generator 
+
 This is a simple password generator web application built with HTML, CSS, and JavaScript. It allows users to customize their passwords based on length and complexity preferences.
 
 ## Demo
