@@ -7,7 +7,6 @@ This is a simple password generator web application built with HTML, CSS, and Ja
 ## Demo
 
 [![Demo](https://img.shields.io/badge/Demo-View%20Demo-blue)](https://mihnearad.github.io/password-generator/)
->>>>>>> Stashed changes
 
 ## Contributing
 
